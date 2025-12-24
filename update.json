@@ -1,0 +1,7 @@
+{
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "updateUrl": "https://github.com/yourname/app/releases/download/v1.0.1/app.apk",
+  "changeLog": "• မြန်မာစာ ဖောင့်အမှားများကို ပြင်ဆင်ထားသည်။\n• Application အမြန်နှုန်းကို မြှင့်တင်ထားသည်။\n• UI ဒီဇိုင်းအသစ် ပြောင်းလဲထားသည်။",
+  "forceUpdate": false
+}
